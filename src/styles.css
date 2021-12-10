@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+
+.App {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  padding: 0.7rem;
+  border: 1px solid #d1d5db;
+  width: 60%;
+  border-radius: 0.3rem;
+  margin: auto;
+}
+
+.phoneName {
+  padding: 3px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.phoneRating {
+  font-size: small;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 0.3rem;
+  padding: 0.7rem;
+  border: 1px solid black;
+  margin: 0.5rem;
+  font-weight: bold;
+  font-family: "Gemunu Libre", sans-serif;
+}
